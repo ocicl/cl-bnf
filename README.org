@@ -4,6 +4,6 @@ A simple BNF parser.
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/diasbruno/cl-bnf.git |
-| commit  | 6fb3e02                                     |
+| commit  | ce009e3                                     |
 | systems | cl-bnf                                      |
 |---------+---------------------------------------------|
